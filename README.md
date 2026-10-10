@@ -44,9 +44,7 @@ solo el último capítulo. El momento de hacerlo es cuando usted termina la part
 | Capítulo 6, *La franquicia con instrucciones de armado* (cierra la Parte II) | `es/lab-part-02` | 55 min | 40 |
 | Capítulo 8, *El libro de quejas y reclamos, y el catálogo que cambió de página* (cierra la Parte III) | `es/lab-part-03` | 60 min | 40 |
 | Capítulo 12, *El carné del empleado y el uniforme obligatorio* (cierra la Parte IV) | `es/lab-part-04` | 55 min | 40 |
-
-El laboratorio de la Parte V se agrega aquí cuando termine su
-ejecución completa en kind.
+| Capítulo 15, *Con quién sí se puede hablar desde el local* (cierra la Parte V) | `es/lab-part-05` | 45-60 min | 40 |
 
 ### Antes de empezar
 
@@ -58,6 +56,7 @@ Necesita estas herramientas instaladas y funcionando:
 | `kind` | crear los clústeres de práctica | v0.33.0 |
 | `kubectl` | hablarle al clúster | v1.37.0 |
 | `helm` | instalar el chart de la Parte II | v4.3.0 |
+| `curl` | entrar al clúster por el Ingress en la Parte V | 8.5.0 |
 | `jq` | leer las respuestas del clúster en los verificadores | 1.7 o superior |
 
 Versiones cercanas también sirven. Los clústeres se crean con la imagen `kindest/node:v1.36.1`,
@@ -143,8 +142,7 @@ just the last chapter. The moment to do it is when you finish the whole part.
 | Chapter 6, *The Franchise With Assembly Instructions* (closes Part II) | `en/lab-part-02` | 55 min | 40 |
 | Chapter 8, *The Complaints Book, and the Catalog That Changed Page* (closes Part III) | `en/lab-part-03` | 60 min | 40 |
 | Chapter 12, *The Employee ID Card and the Mandatory Uniform* (closes Part IV) | `en/lab-part-04` | 55 min | 40 |
-
-The Part V lab is added here once it completes its full run on kind.
+| Chapter 15, *Who Your Stall Is Actually Allowed to Talk To* (closes Part V) | `en/lab-part-05` | 45-60 min | 40 |
 
 ### Before you start
 
@@ -156,6 +154,7 @@ You need these tools installed and working:
 | `kind` | creating the practice clusters | v0.33.0 |
 | `kubectl` | talking to the cluster | v1.37.0 |
 | `helm` | installing the Part II chart | v4.3.0 |
+| `curl` | reaching the cluster through the Ingress in Part V | 8.5.0 |
 | `jq` | reading the cluster's answers in the graders | 1.7 or later |
 
 Nearby versions are fine too. The clusters are created from `kindest/node:v1.36.1`, pinned by
