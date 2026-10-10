@@ -42,8 +42,9 @@ solo el último capítulo. El momento de hacerlo es cuando usted termina la part
 |---|---|---|---|
 | Capítulo 3, *El ayudante de cocina y la nevera compartida* (cierra la Parte I) | `es/lab-part-01` | 55 min | 40 |
 | Capítulo 6, *La franquicia con instrucciones de armado* (cierra la Parte II) | `es/lab-part-02` | 55 min | 40 |
+| Capítulo 8, *El libro de quejas y reclamos, y el catálogo que cambió de página* (cierra la Parte III) | `es/lab-part-03` | 60 min | 40 |
 
-Los laboratorios de las Partes III a V se agregan aquí a medida que cada uno termina su
+Los laboratorios de las Partes IV y V se agregan aquí a medida que cada uno termina su
 ejecución completa en kind.
 
 ### Antes de empezar
@@ -139,8 +140,9 @@ just the last chapter. The moment to do it is when you finish the whole part.
 |---|---|---|---|
 | Chapter 3, *The Kitchen Helper and the Shared Fridge* (closes Part I) | `en/lab-part-01` | 55 min | 40 |
 | Chapter 6, *The Franchise With Assembly Instructions* (closes Part II) | `en/lab-part-02` | 55 min | 40 |
+| Chapter 8, *The Complaints Book, and the Catalog That Changed Page* (closes Part III) | `en/lab-part-03` | 60 min | 40 |
 
-The labs for Parts III to V are added here as each one completes its full run on kind.
+The labs for Parts IV and V are added here as each one completes its full run on kind.
 
 ### Before you start
 
