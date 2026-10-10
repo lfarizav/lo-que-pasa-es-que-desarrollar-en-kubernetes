@@ -41,8 +41,9 @@ solo el último capítulo. El momento de hacerlo es cuando usted termina la part
 | Termine de leer | Y entonces corra | Tiempo | Puntos |
 |---|---|---|---|
 | Capítulo 3, *El ayudante de cocina y la nevera compartida* (cierra la Parte I) | `es/lab-part-01` | 55 min | 40 |
+| Capítulo 6, *La franquicia con instrucciones de armado* (cierra la Parte II) | `es/lab-part-02` | 55 min | 40 |
 
-Los laboratorios de las Partes II a V se agregan aquí a medida que cada uno termina su
+Los laboratorios de las Partes III a V se agregan aquí a medida que cada uno termina su
 ejecución completa en kind.
 
 ### Antes de empezar
@@ -54,6 +55,7 @@ Necesita estas herramientas instaladas y funcionando:
 | `docker` | correr los nodos del clúster y construir la imagen de la Parte I | 29.9.0 |
 | `kind` | crear los clústeres de práctica | v0.33.0 |
 | `kubectl` | hablarle al clúster | v1.37.0 |
+| `helm` | instalar el chart de la Parte II | v4.3.0 |
 | `jq` | leer las respuestas del clúster en los verificadores | 1.7 o superior |
 
 Versiones cercanas también sirven. Los clústeres se crean con la imagen `kindest/node:v1.36.1`,
@@ -136,8 +138,9 @@ just the last chapter. The moment to do it is when you finish the whole part.
 | Finish reading | Then run | Time | Points |
 |---|---|---|---|
 | Chapter 3, *The Kitchen Helper and the Shared Fridge* (closes Part I) | `en/lab-part-01` | 55 min | 40 |
+| Chapter 6, *The Franchise With Assembly Instructions* (closes Part II) | `en/lab-part-02` | 55 min | 40 |
 
-The labs for Parts II to V are added here as each one completes its full run on kind.
+The labs for Parts III to V are added here as each one completes its full run on kind.
 
 ### Before you start
 
@@ -148,6 +151,7 @@ You need these tools installed and working:
 | `docker` | running the cluster's nodes and building the Part I image | 29.9.0 |
 | `kind` | creating the practice clusters | v0.33.0 |
 | `kubectl` | talking to the cluster | v1.37.0 |
+| `helm` | installing the Part II chart | v4.3.0 |
 | `jq` | reading the cluster's answers in the graders | 1.7 or later |
 
 Nearby versions are fine too. The clusters are created from `kindest/node:v1.36.1`, pinned by
